@@ -30,7 +30,7 @@ This repository contains the source code for an ESP32-based weather station. The
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/esp32-weather-station.git
+   git clone https://github.com/Jordy-Hermes/5IOT.git
 
 2. **Install Dependencies**
     Open the Arduino IDE, go to Sketch > Include Library > Manage Libraries. Install the following libraries:
